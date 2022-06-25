@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.on {
+  color: cornflowerblue;
+}
+
+.line{
+  width:50px;
+  height:2px;
+  transition: width 2s
+}
+
+.line-none{
+  width:0;
+  height:2px;
+  transition: width 2s
+}
